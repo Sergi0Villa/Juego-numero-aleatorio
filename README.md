@@ -1,0 +1,1 @@
+Before you compile something, put all the images in a folder named 'img', this is because the structure of the HTML file, also because I weren't able to upload the folder, just the images one by one. Sorry for the distrubs :)
